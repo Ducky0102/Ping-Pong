@@ -8,8 +8,8 @@ It’s simple, it’s purple, and honestly? It was a lot of fun (and a bit of a 
 3.Extract it, make sure the .exe and the .dll stay together, and just      double-click pong.exe.
 ---------------------------------------------------------
 🕹️ Controls
-1. W - Move Up
-2. S - Move Down
+**1. W - Move Up
+2. S - Move Down**
 ---------------------------------------------------------
 Try to outsmart the CPU! (I tried to make him move more like a human, so he's not totally invincible).
 🛠️ Behind the Scenes

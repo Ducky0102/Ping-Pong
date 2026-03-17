@@ -1,4 +1,4 @@
-# 🏓 Hey, I'm Ducky! 
+### 🏓 Hey, I'm Ducky! 
 
 I’ve spent a huge chunk of my life playing video games, so I finally decided it was time to see if I could actually **make** one. This is my very first project—a classic Pong game built with **C++**. 
 
